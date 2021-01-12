@@ -2,7 +2,7 @@
 A small module that adds color to console text using colorama with a nicer syntax
 
 ## How to import the module:
-Place *colorama.py* in your root project folder and then use the following statement to import it:
+Place **colorize.py** in your root project folder and then use the following statement to import it:
 ```
 from colorize import colorize
 ```
