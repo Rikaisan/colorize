@@ -5,7 +5,7 @@ init()
 
 def colorize(string, color):
     """
-    Returns a string colored with the selected color.
-    Available colors: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET
+    Returns a string colored with the selected color.\n
+    Available colors: black, red, green, yellow, blue, magenta, cyan, white, reset
     """
     return str(getattr(Fore, color.upper()) + str(string) + Fore.RESET)
