@@ -6,7 +6,7 @@ How to use:
 from colorize import colorize
 
 colorize(string, color)
------------------------------------------------
+
 Example:
 -----------------------------------------------
 colorize("Welcome!", "cyan")
