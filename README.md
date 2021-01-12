@@ -15,3 +15,5 @@ colorize(string, color)
 ```
 colorize("Welcome!", "cyan")
 ```
+### Note:
+**colorize()** returns a string
