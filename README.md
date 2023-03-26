@@ -1,5 +1,5 @@
 # Colorize
-A small module that adds color to console text using colorama with a nicer syntax
+A small Colorama wrapper that improves syntax
 
 ## Prerequisites:
 For the module to work, you'll need to have **colorama** installed on your machine:
